@@ -20,6 +20,7 @@ respectively...
 Inspected the CSV files and sketched out an ERD of the tables. 
 Used a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
+![image](https://github.com/svuth23/sql-challenge/assets/136966712/c2f93f0c-5dbb-440f-b267-6acd2c1e6cb4)
 
 
 
